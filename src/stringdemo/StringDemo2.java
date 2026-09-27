@@ -1,6 +1,6 @@
 package stringdemo;
 
-public class StringDemp2 {
+public class StringDemo2 {
     public static void main(String[] args) {
         String s1=new String("abc");
         String s2="Abc";
