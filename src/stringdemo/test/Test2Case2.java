@@ -1,4 +1,4 @@
-package test;
+package stringdemo.test;
 
 public class Test2Case2 {
     public static void main(String[] args) {

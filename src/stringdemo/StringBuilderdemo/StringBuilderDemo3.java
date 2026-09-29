@@ -1,4 +1,4 @@
-package StringBuilderdemo;
+package stringdemo.StringBuilderdemo;
 
 public class StringBuilderDemo3 {
     public static void main(String[] args) {

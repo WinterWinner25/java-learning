@@ -1,4 +1,4 @@
-package StringJoinerdemo;
+package stringdemo.StringJoinerdemo;
 
 import java.util.StringJoiner;
 
